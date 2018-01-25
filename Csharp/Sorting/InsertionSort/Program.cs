@@ -3,6 +3,9 @@ using System.Collections.Generic;
 
 namespace InsertionSort
 {
+    /// <summary>
+    /// Insertion sort.
+    /// </summary>
     public class Program
     {
         public static void Main(string[] args)
