@@ -1,0 +1,55 @@
+########################################################################
+#                          Big(O) Complexity                           #
+########################################################################
+
+Links - https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/
+
+-  BigO always favours the worst case scenario.
+
+1.  O(1) - Time will always be the same.
+
+	public bool IsFirstElementFive(int[] sequence)
+	{
+		return sequence[0] == 5;
+	}
+
+2.  O(n) - Time increases linearly based on size of data set.
+	
+	public bool LinearSearch(int[] sequence, int value)
+	{
+		foreach (var i in sequence)
+		{
+			if (i == value)
+				return true;
+		}
+
+		return false;
+	}
+
+	
+3.  O(n^2) - Time increases proportionally to the square of the size
+			 of the data set.  Common in algorithms with nested loops.
+			 The deep the nested iterations the more complex the 
+			 algorithm.  Below is O(n^2) algorithm.
+
+	public bool ContainsDuplicates(int[] sequence)
+    {
+        for (var i = 0; i < sequence.Length; i++)
+        {
+            for (var j = i; j < sequence.Length; j++)
+            {
+				// Don't compare with self.
+                if (i == j)
+                    continue;
+
+                if (sequence[i] == sequence[j])
+                    return true;
+            }
+        }
+
+        return false;
+    }
+
+
+
+4.  O(2^n)

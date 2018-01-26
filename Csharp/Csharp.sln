@@ -3,9 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2020
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertionSort", "Sorting\InsertionSort\InsertionSort.csproj", "{3DFA946D-109A-4085-BE46-7B336DC89EF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InsertionSort", "Sorting\InsertionSort\InsertionSort.csproj", "{3DFA946D-109A-4085-BE46-7B336DC89EF6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sorting", "Sorting", "{4583BE4A-F19D-4325-99E0-135E6955522A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A3E48082-695D-4F98-8EBC-CDA2FF81FC86}"
+	ProjectSection(SolutionItems) = preProject
+		BigOComplexity.txt = BigOComplexity.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,0 +1,54 @@
+﻿########################################################################
+#                          Insertion Sort                              #
+########################################################################
+
+- Links
+	https://www.khanacademy.org/computing/computer-science/algorithms/insertion-sort/a/analysis-of-insertion-sort
+
+- Explanation
+	Starting with the second element(key) in a collection(the first element is already sorted) 
+	we compare it to the previous element in the same collection.  If the key is less than the 
+	previous element we swap the values of the two elements.  We continue to check if the key is 
+	less than the previous element in the collection.  Performing a pairwise swap if it is.  If the 
+	key is greater than or equal to the previous element in the collection or we've reached the 
+	beginning of the collection, we change the value of the key to the value of the first  element 
+	in the unsorted subarray.
+
+- Time Complexity
+	0(n^2)
+
+- Example
+	Sequence:  2, 5, 4, 3, 8
+	Key: 5
+	Logic:  5 is greater than 2
+	Result: Change the value of the key to 4
+	
+	Sequence:  2, 5, 4, 3, 8
+	Key: 4
+	Logic:  4 is less than 5
+	Result:  Swap
+	Sequence:  2, 4, 5, 3, 8
+	Logic: 4 is greater than 2
+	Result:  Change the value of the key to 3
+	
+	Sequence:  2, 4, 5, 3, 8
+	Key:  3
+	Logic:  3 is less than 5
+	Result: Swap
+	Sequence:  2, 4, 3, 5, 8
+	Logic:  3 is less than 4
+	Result.  Swap
+	Sequence:  2, 3, 4, 5, 8
+	Logic:  3 is less than 2
+	Result:  Change the value of the key to 5
+	
+	Sequence:  2, 3, 4, 5, 8
+	Key:  5
+	Logic:  5 is greater than 4
+	Result:  Change the value of the key to 8
+	
+	Sequence:  2, 3, 4, 5, 8
+	Key:  8
+	Logic:  8 is greater than 5
+	Result:  Exit
+

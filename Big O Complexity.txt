@@ -1,0 +1,8 @@
+########################################################################
+#                          Big(O) Complexity                           #
+########################################################################
+
+1.  O(1) - Time will always be the same.
+2.  O(n) - Time increases linearly based on size of data set.
+3.  O(n²) - Time increases in polynomial time (eg. nested loop).
+4.  O(2)
