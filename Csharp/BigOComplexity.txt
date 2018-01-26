@@ -49,7 +49,3 @@ Links - https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/
 
         return false;
     }
-
-
-
-4.  O(2^n)
