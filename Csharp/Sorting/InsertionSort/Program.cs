@@ -18,11 +18,11 @@ namespace InsertionSort
 
         public static void Run(int[] sequence)
         {
-            for (var index = 1; index < sequence.Length; index++) // n = 5
+            for (var index = 1; index < sequence.Length; index++)
             {
-                var swapIndex = index; // n - 1 = 4
+                var swapIndex = index;
 
-                while (swapIndex > 0 && sequence[swapIndex] < sequence[swapIndex - 1]) // n - 1 = 4
+                while (swapIndex > 0 && sequence[swapIndex] < sequence[swapIndex - 1])
                 {
                     var key = sequence[swapIndex];
                     sequence[swapIndex] = sequence[swapIndex - 1];
