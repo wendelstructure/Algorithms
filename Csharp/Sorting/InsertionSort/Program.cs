@@ -3,14 +3,11 @@ using System.Collections.Generic;
 
 namespace InsertionSort
 {
-    /// <summary>
-    /// Insertion sort.
-    /// </summary>
     public class Program
     {
         public static void Main(string[] args)
         {
-            var sequence = new List<int> { 5, 4, 3, 2, 1 };
+            var sequence = new[] {3, 2, 1, 4, 5};
             Console.WriteLine($"Input:  {string.Join(",", sequence)}");
 
             Run(sequence);
@@ -19,11 +16,9 @@ namespace InsertionSort
             Console.ReadLine();
         }
 
-        public static void Run(List<int> sequence)
+        public static void Run(int[] sequence)
         {
-            var n = sequence.Count;
-
-            for (var index = 1; index < n; index++)
+            for (var index = 1; index < sequence.Length; index++)
             {
                 var swapIndex = index;
 
