@@ -1,0 +1,11 @@
+C:\Projects\Algorithms\Csharp\EuclidsAlgorithm\bin\Debug\netcoreapp2.0\EuclidsAlgorithm.deps.json
+C:\Projects\Algorithms\Csharp\EuclidsAlgorithm\bin\Debug\netcoreapp2.0\EuclidsAlgorithm.runtimeconfig.json
+C:\Projects\Algorithms\Csharp\EuclidsAlgorithm\bin\Debug\netcoreapp2.0\EuclidsAlgorithm.runtimeconfig.dev.json
+C:\Projects\Algorithms\Csharp\EuclidsAlgorithm\bin\Debug\netcoreapp2.0\EuclidsAlgorithm.dll
+C:\Projects\Algorithms\Csharp\EuclidsAlgorithm\bin\Debug\netcoreapp2.0\EuclidsAlgorithm.pdb
+C:\Projects\Algorithms\Csharp\EuclidsAlgorithm\obj\Debug\netcoreapp2.0\EuclidsAlgorithm.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Csharp\EuclidsAlgorithm\obj\Debug\netcoreapp2.0\EuclidsAlgorithm.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Csharp\EuclidsAlgorithm\obj\Debug\netcoreapp2.0\EuclidsAlgorithm.AssemblyInfoInputs.cache
+C:\Projects\Algorithms\Csharp\EuclidsAlgorithm\obj\Debug\netcoreapp2.0\EuclidsAlgorithm.AssemblyInfo.cs
+C:\Projects\Algorithms\Csharp\EuclidsAlgorithm\obj\Debug\netcoreapp2.0\EuclidsAlgorithm.dll
+C:\Projects\Algorithms\Csharp\EuclidsAlgorithm\obj\Debug\netcoreapp2.0\EuclidsAlgorithm.pdb

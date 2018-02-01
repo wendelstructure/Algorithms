@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27130.2020
+VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InsertionSort", "Sorting\InsertionSort\InsertionSort.csproj", "{3DFA946D-109A-4085-BE46-7B336DC89EF6}"
 EndProject
@@ -11,6 +11,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	ProjectSection(SolutionItems) = preProject
 		BigOComplexity.txt = BigOComplexity.txt
 	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataStructures", "DataStructures", "{19F12F4A-BA1C-43A0-81D9-498E1FC2E307}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Numerical", "Numerical", "{3E718ECC-D886-4860-8DA1-76CF4B23BA96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EuclidsAlgorithm", "EuclidsAlgorithm\EuclidsAlgorithm.csproj", "{CA0661C8-743B-415F-BCC4-19C46764943D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -22,12 +28,17 @@ Global
 		{3DFA946D-109A-4085-BE46-7B336DC89EF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DFA946D-109A-4085-BE46-7B336DC89EF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DFA946D-109A-4085-BE46-7B336DC89EF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA0661C8-743B-415F-BCC4-19C46764943D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA0661C8-743B-415F-BCC4-19C46764943D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA0661C8-743B-415F-BCC4-19C46764943D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA0661C8-743B-415F-BCC4-19C46764943D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{3DFA946D-109A-4085-BE46-7B336DC89EF6} = {4583BE4A-F19D-4325-99E0-135E6955522A}
+		{CA0661C8-743B-415F-BCC4-19C46764943D} = {3E718ECC-D886-4860-8DA1-76CF4B23BA96}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9ED6B7CE-4DC8-4C5F-9826-D36E3D1FC581}

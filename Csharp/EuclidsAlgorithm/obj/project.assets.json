@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Algorithms\\Csharp\\Sorting\\InsertionSort\\InsertionSort.csproj",
-      "projectName": "InsertionSort",
-      "projectPath": "C:\\Projects\\Algorithms\\Csharp\\Sorting\\InsertionSort\\InsertionSort.csproj",
+      "projectUniqueName": "C:\\Projects\\Algorithms\\Csharp\\EuclidsAlgorithm\\EuclidsAlgorithm.csproj",
+      "projectName": "EuclidsAlgorithm",
+      "projectPath": "C:\\Projects\\Algorithms\\Csharp\\EuclidsAlgorithm\\EuclidsAlgorithm.csproj",
       "packagesPath": "C:\\Users\\wendel.chinsamy\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Algorithms\\Csharp\\Sorting\\InsertionSort\\obj\\",
+      "outputPath": "C:\\Projects\\Algorithms\\Csharp\\EuclidsAlgorithm\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
