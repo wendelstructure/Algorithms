@@ -4,8 +4,7 @@ first = int(input("Enter a value for the first number:  "))
 second = int(input("Enter a value for the second number:  "))
 
 while second != 0:
-    remainder = first % second
-    first, second = second, remainder
+    first, second = second, first % second
 
 print(f"Result:  {first}")
 

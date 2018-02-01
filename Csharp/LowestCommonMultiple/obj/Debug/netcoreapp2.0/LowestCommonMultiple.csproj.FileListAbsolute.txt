@@ -1,0 +1,11 @@
+C:\Projects\Algorithms\Csharp\LowestCommonMultiple\bin\Debug\netcoreapp2.0\LowestCommonMultiple.deps.json
+C:\Projects\Algorithms\Csharp\LowestCommonMultiple\bin\Debug\netcoreapp2.0\LowestCommonMultiple.runtimeconfig.json
+C:\Projects\Algorithms\Csharp\LowestCommonMultiple\bin\Debug\netcoreapp2.0\LowestCommonMultiple.runtimeconfig.dev.json
+C:\Projects\Algorithms\Csharp\LowestCommonMultiple\bin\Debug\netcoreapp2.0\LowestCommonMultiple.dll
+C:\Projects\Algorithms\Csharp\LowestCommonMultiple\bin\Debug\netcoreapp2.0\LowestCommonMultiple.pdb
+C:\Projects\Algorithms\Csharp\LowestCommonMultiple\obj\Debug\netcoreapp2.0\LowestCommonMultiple.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Csharp\LowestCommonMultiple\obj\Debug\netcoreapp2.0\LowestCommonMultiple.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Csharp\LowestCommonMultiple\obj\Debug\netcoreapp2.0\LowestCommonMultiple.AssemblyInfoInputs.cache
+C:\Projects\Algorithms\Csharp\LowestCommonMultiple\obj\Debug\netcoreapp2.0\LowestCommonMultiple.AssemblyInfo.cs
+C:\Projects\Algorithms\Csharp\LowestCommonMultiple\obj\Debug\netcoreapp2.0\LowestCommonMultiple.dll
+C:\Projects\Algorithms\Csharp\LowestCommonMultiple\obj\Debug\netcoreapp2.0\LowestCommonMultiple.pdb
