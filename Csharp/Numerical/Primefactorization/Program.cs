@@ -9,28 +9,34 @@ namespace Primefactorization
         {
             Console.Write("Enter a value to factorize:  ");
 
-            var num = Convert.ToInt64(Console.ReadLine());
-            var factor = 3;
+            var number = Convert.ToInt64(Console.ReadLine());
             var factors = new List<long>();
 
-            while (factor < Math.Sqrt(num))
+            while (number % 2 == 0)
             {
-                Console.WriteLine(factor);
-                while (num % factor == 0)
-                {
-                    factors.Add(factor);
-                    num = num / factor;
-                }
-
-                if (factor * factor > num)
-                {
-                    factors.Add(num);
-                    return;
-                }
-
-                factor += 2;
+                factors.Add(2);
+                number /= 2;
             }
-            
+
+            var factor = 3;
+
+            while (factor * factor <= number)
+            {
+                if (number % factor != 0)
+                {
+                    factor += 2;
+                    continue;
+                }
+
+                factors.Add(factor);
+                number = number / factor;
+            }
+
+            //number will now equal to the final prime factor as the square
+            //of the current factor is greater than number.  So we add the
+            //number to the list of factors.
+            factors.Add(number);
+
             Console.WriteLine($"Result:  {string.Join('*', factors)}");
 
             Console.Write("Press enter to exit...");

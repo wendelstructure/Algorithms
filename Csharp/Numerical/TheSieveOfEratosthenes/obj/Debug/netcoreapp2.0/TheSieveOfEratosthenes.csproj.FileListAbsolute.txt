@@ -9,3 +9,14 @@ c:\Projects\algorithms\Csharp\TheSieveOfEratosthenes\obj\Debug\netcoreapp2.0\The
 c:\Projects\algorithms\Csharp\TheSieveOfEratosthenes\obj\Debug\netcoreapp2.0\TheSieveOfEratosthenes.AssemblyInfo.cs
 c:\Projects\algorithms\Csharp\TheSieveOfEratosthenes\obj\Debug\netcoreapp2.0\TheSieveOfEratosthenes.dll
 c:\Projects\algorithms\Csharp\TheSieveOfEratosthenes\obj\Debug\netcoreapp2.0\TheSieveOfEratosthenes.pdb
+C:\Projects\Algorithms\Csharp\Numerical\TheSieveOfEratosthenes\bin\Debug\netcoreapp2.0\TheSieveOfEratosthenes.deps.json
+C:\Projects\Algorithms\Csharp\Numerical\TheSieveOfEratosthenes\bin\Debug\netcoreapp2.0\TheSieveOfEratosthenes.runtimeconfig.json
+C:\Projects\Algorithms\Csharp\Numerical\TheSieveOfEratosthenes\bin\Debug\netcoreapp2.0\TheSieveOfEratosthenes.runtimeconfig.dev.json
+C:\Projects\Algorithms\Csharp\Numerical\TheSieveOfEratosthenes\bin\Debug\netcoreapp2.0\TheSieveOfEratosthenes.dll
+C:\Projects\Algorithms\Csharp\Numerical\TheSieveOfEratosthenes\bin\Debug\netcoreapp2.0\TheSieveOfEratosthenes.pdb
+C:\Projects\Algorithms\Csharp\Numerical\TheSieveOfEratosthenes\obj\Debug\netcoreapp2.0\TheSieveOfEratosthenes.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Csharp\Numerical\TheSieveOfEratosthenes\obj\Debug\netcoreapp2.0\TheSieveOfEratosthenes.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Csharp\Numerical\TheSieveOfEratosthenes\obj\Debug\netcoreapp2.0\TheSieveOfEratosthenes.AssemblyInfoInputs.cache
+C:\Projects\Algorithms\Csharp\Numerical\TheSieveOfEratosthenes\obj\Debug\netcoreapp2.0\TheSieveOfEratosthenes.AssemblyInfo.cs
+C:\Projects\Algorithms\Csharp\Numerical\TheSieveOfEratosthenes\obj\Debug\netcoreapp2.0\TheSieveOfEratosthenes.dll
+C:\Projects\Algorithms\Csharp\Numerical\TheSieveOfEratosthenes\obj\Debug\netcoreapp2.0\TheSieveOfEratosthenes.pdb

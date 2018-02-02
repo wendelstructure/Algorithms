@@ -8,3 +8,14 @@ c:\Projects\algorithms\Csharp\FermatsLittleTheorem\obj\Debug\netcoreapp2.0\Ferma
 c:\Projects\algorithms\Csharp\FermatsLittleTheorem\obj\Debug\netcoreapp2.0\FermatsLittleTheorem.AssemblyInfo.cs
 c:\Projects\algorithms\Csharp\FermatsLittleTheorem\obj\Debug\netcoreapp2.0\FermatsLittleTheorem.dll
 c:\Projects\algorithms\Csharp\FermatsLittleTheorem\obj\Debug\netcoreapp2.0\FermatsLittleTheorem.pdb
+C:\Projects\Algorithms\Csharp\Numerical\FermatsLittleTheorem\bin\Debug\netcoreapp2.0\FermatsLittleTheorem.deps.json
+C:\Projects\Algorithms\Csharp\Numerical\FermatsLittleTheorem\bin\Debug\netcoreapp2.0\FermatsLittleTheorem.runtimeconfig.json
+C:\Projects\Algorithms\Csharp\Numerical\FermatsLittleTheorem\bin\Debug\netcoreapp2.0\FermatsLittleTheorem.runtimeconfig.dev.json
+C:\Projects\Algorithms\Csharp\Numerical\FermatsLittleTheorem\bin\Debug\netcoreapp2.0\FermatsLittleTheorem.dll
+C:\Projects\Algorithms\Csharp\Numerical\FermatsLittleTheorem\bin\Debug\netcoreapp2.0\FermatsLittleTheorem.pdb
+C:\Projects\Algorithms\Csharp\Numerical\FermatsLittleTheorem\obj\Debug\netcoreapp2.0\FermatsLittleTheorem.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Csharp\Numerical\FermatsLittleTheorem\obj\Debug\netcoreapp2.0\FermatsLittleTheorem.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Csharp\Numerical\FermatsLittleTheorem\obj\Debug\netcoreapp2.0\FermatsLittleTheorem.AssemblyInfoInputs.cache
+C:\Projects\Algorithms\Csharp\Numerical\FermatsLittleTheorem\obj\Debug\netcoreapp2.0\FermatsLittleTheorem.AssemblyInfo.cs
+C:\Projects\Algorithms\Csharp\Numerical\FermatsLittleTheorem\obj\Debug\netcoreapp2.0\FermatsLittleTheorem.dll
+C:\Projects\Algorithms\Csharp\Numerical\FermatsLittleTheorem\obj\Debug\netcoreapp2.0\FermatsLittleTheorem.pdb
