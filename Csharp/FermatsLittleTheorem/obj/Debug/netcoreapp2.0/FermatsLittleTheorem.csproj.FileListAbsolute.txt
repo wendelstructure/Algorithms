@@ -1,0 +1,10 @@
+c:\Projects\algorithms\Csharp\FermatsLittleTheorem\bin\Debug\netcoreapp2.0\FermatsLittleTheorem.deps.json
+c:\Projects\algorithms\Csharp\FermatsLittleTheorem\bin\Debug\netcoreapp2.0\FermatsLittleTheorem.runtimeconfig.json
+c:\Projects\algorithms\Csharp\FermatsLittleTheorem\bin\Debug\netcoreapp2.0\FermatsLittleTheorem.runtimeconfig.dev.json
+c:\Projects\algorithms\Csharp\FermatsLittleTheorem\bin\Debug\netcoreapp2.0\FermatsLittleTheorem.dll
+c:\Projects\algorithms\Csharp\FermatsLittleTheorem\bin\Debug\netcoreapp2.0\FermatsLittleTheorem.pdb
+c:\Projects\algorithms\Csharp\FermatsLittleTheorem\obj\Debug\netcoreapp2.0\FermatsLittleTheorem.csproj.CoreCompileInputs.cache
+c:\Projects\algorithms\Csharp\FermatsLittleTheorem\obj\Debug\netcoreapp2.0\FermatsLittleTheorem.AssemblyInfoInputs.cache
+c:\Projects\algorithms\Csharp\FermatsLittleTheorem\obj\Debug\netcoreapp2.0\FermatsLittleTheorem.AssemblyInfo.cs
+c:\Projects\algorithms\Csharp\FermatsLittleTheorem\obj\Debug\netcoreapp2.0\FermatsLittleTheorem.dll
+c:\Projects\algorithms\Csharp\FermatsLittleTheorem\obj\Debug\netcoreapp2.0\FermatsLittleTheorem.pdb
