@@ -8,9 +8,13 @@ value = int(input("Enter a value:  "))
 result = False
 
 if value == 2:
-    result = True
-else:
-    result = (2 ** (value - 1)) % value == 1
+    print("2 is a prime number")
+
+for i in range(2, value):
+    result = (i ** (value - 1)) % value == 1
+
+    if not result:
+        break
 
 if result:
     print(f"{value} is a prime number.")
