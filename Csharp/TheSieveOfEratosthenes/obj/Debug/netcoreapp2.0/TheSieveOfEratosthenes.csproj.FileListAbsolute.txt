@@ -1,0 +1,11 @@
+c:\Projects\algorithms\Csharp\TheSieveOfEratosthenes\bin\Debug\netcoreapp2.0\TheSieveOfEratosthenes.deps.json
+c:\Projects\algorithms\Csharp\TheSieveOfEratosthenes\bin\Debug\netcoreapp2.0\TheSieveOfEratosthenes.runtimeconfig.json
+c:\Projects\algorithms\Csharp\TheSieveOfEratosthenes\bin\Debug\netcoreapp2.0\TheSieveOfEratosthenes.runtimeconfig.dev.json
+c:\Projects\algorithms\Csharp\TheSieveOfEratosthenes\bin\Debug\netcoreapp2.0\TheSieveOfEratosthenes.dll
+c:\Projects\algorithms\Csharp\TheSieveOfEratosthenes\bin\Debug\netcoreapp2.0\TheSieveOfEratosthenes.pdb
+c:\Projects\algorithms\Csharp\TheSieveOfEratosthenes\obj\Debug\netcoreapp2.0\TheSieveOfEratosthenes.csprojResolveAssemblyReference.cache
+c:\Projects\algorithms\Csharp\TheSieveOfEratosthenes\obj\Debug\netcoreapp2.0\TheSieveOfEratosthenes.csproj.CoreCompileInputs.cache
+c:\Projects\algorithms\Csharp\TheSieveOfEratosthenes\obj\Debug\netcoreapp2.0\TheSieveOfEratosthenes.AssemblyInfoInputs.cache
+c:\Projects\algorithms\Csharp\TheSieveOfEratosthenes\obj\Debug\netcoreapp2.0\TheSieveOfEratosthenes.AssemblyInfo.cs
+c:\Projects\algorithms\Csharp\TheSieveOfEratosthenes\obj\Debug\netcoreapp2.0\TheSieveOfEratosthenes.dll
+c:\Projects\algorithms\Csharp\TheSieveOfEratosthenes\obj\Debug\netcoreapp2.0\TheSieveOfEratosthenes.pdb

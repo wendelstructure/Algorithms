@@ -1,0 +1,11 @@
+C:\Projects\Algorithms\Csharp\Primefactorization\bin\Debug\netcoreapp2.0\Primefactorization.deps.json
+C:\Projects\Algorithms\Csharp\Primefactorization\bin\Debug\netcoreapp2.0\Primefactorization.runtimeconfig.json
+C:\Projects\Algorithms\Csharp\Primefactorization\bin\Debug\netcoreapp2.0\Primefactorization.runtimeconfig.dev.json
+C:\Projects\Algorithms\Csharp\Primefactorization\bin\Debug\netcoreapp2.0\Primefactorization.dll
+C:\Projects\Algorithms\Csharp\Primefactorization\bin\Debug\netcoreapp2.0\Primefactorization.pdb
+C:\Projects\Algorithms\Csharp\Primefactorization\obj\Debug\netcoreapp2.0\Primefactorization.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Csharp\Primefactorization\obj\Debug\netcoreapp2.0\Primefactorization.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Csharp\Primefactorization\obj\Debug\netcoreapp2.0\Primefactorization.AssemblyInfoInputs.cache
+C:\Projects\Algorithms\Csharp\Primefactorization\obj\Debug\netcoreapp2.0\Primefactorization.AssemblyInfo.cs
+C:\Projects\Algorithms\Csharp\Primefactorization\obj\Debug\netcoreapp2.0\Primefactorization.dll
+C:\Projects\Algorithms\Csharp\Primefactorization\obj\Debug\netcoreapp2.0\Primefactorization.pdb

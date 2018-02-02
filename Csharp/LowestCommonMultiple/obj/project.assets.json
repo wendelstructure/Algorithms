@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Algorithms\\Csharp\\LowestCommonMultiple\\LowestCommonMultiple.csproj",
+      "projectUniqueName": "c:\\projects\\algorithms\\Csharp\\LowestCommonMultiple\\LowestCommonMultiple.csproj",
       "projectName": "LowestCommonMultiple",
-      "projectPath": "C:\\Projects\\Algorithms\\Csharp\\LowestCommonMultiple\\LowestCommonMultiple.csproj",
+      "projectPath": "c:\\projects\\algorithms\\Csharp\\LowestCommonMultiple\\LowestCommonMultiple.csproj",
       "packagesPath": "C:\\Users\\wendel.chinsamy\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Algorithms\\Csharp\\LowestCommonMultiple\\obj\\",
+      "outputPath": "c:\\projects\\algorithms\\Csharp\\LowestCommonMultiple\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

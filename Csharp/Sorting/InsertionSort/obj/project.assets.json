@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Algorithms\\Csharp\\Sorting\\InsertionSort\\InsertionSort.csproj",
+      "projectUniqueName": "c:\\projects\\algorithms\\Csharp\\Sorting\\InsertionSort\\InsertionSort.csproj",
       "projectName": "InsertionSort",
-      "projectPath": "C:\\Projects\\Algorithms\\Csharp\\Sorting\\InsertionSort\\InsertionSort.csproj",
+      "projectPath": "c:\\projects\\algorithms\\Csharp\\Sorting\\InsertionSort\\InsertionSort.csproj",
       "packagesPath": "C:\\Users\\wendel.chinsamy\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Algorithms\\Csharp\\Sorting\\InsertionSort\\obj\\",
+      "outputPath": "c:\\projects\\algorithms\\Csharp\\Sorting\\InsertionSort\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

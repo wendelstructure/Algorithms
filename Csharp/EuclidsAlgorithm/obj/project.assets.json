@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Algorithms\\Csharp\\EuclidsAlgorithm\\EuclidsAlgorithm.csproj",
+      "projectUniqueName": "c:\\projects\\algorithms\\Csharp\\EuclidsAlgorithm\\EuclidsAlgorithm.csproj",
       "projectName": "EuclidsAlgorithm",
-      "projectPath": "C:\\Projects\\Algorithms\\Csharp\\EuclidsAlgorithm\\EuclidsAlgorithm.csproj",
+      "projectPath": "c:\\projects\\algorithms\\Csharp\\EuclidsAlgorithm\\EuclidsAlgorithm.csproj",
       "packagesPath": "C:\\Users\\wendel.chinsamy\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Algorithms\\Csharp\\EuclidsAlgorithm\\obj\\",
+      "outputPath": "c:\\projects\\algorithms\\Csharp\\EuclidsAlgorithm\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

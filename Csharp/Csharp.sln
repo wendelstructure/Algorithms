@@ -16,9 +16,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataStructures", "DataStruc
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Numerical", "Numerical", "{3E718ECC-D886-4860-8DA1-76CF4B23BA96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EuclidsAlgorithm", "EuclidsAlgorithm\EuclidsAlgorithm.csproj", "{CA0661C8-743B-415F-BCC4-19C46764943D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EuclidsAlgorithm", "EuclidsAlgorithm\EuclidsAlgorithm.csproj", "{CA0661C8-743B-415F-BCC4-19C46764943D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LowestCommonMultiple", "LowestCommonMultiple\LowestCommonMultiple.csproj", "{D206D278-376E-4933-84E5-3C1726071680}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LowestCommonMultiple", "LowestCommonMultiple\LowestCommonMultiple.csproj", "{D206D278-376E-4933-84E5-3C1726071680}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Primefactorization", "Primefactorization\Primefactorization.csproj", "{14B9648D-AF91-4E74-96A3-173D47D938DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheSieveOfEratosthenes", "TheSieveOfEratosthenes\TheSieveOfEratosthenes.csproj", "{E3BD3285-A956-4597-B4CA-721318ECCB57}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -38,6 +42,14 @@ Global
 		{D206D278-376E-4933-84E5-3C1726071680}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D206D278-376E-4933-84E5-3C1726071680}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D206D278-376E-4933-84E5-3C1726071680}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14B9648D-AF91-4E74-96A3-173D47D938DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14B9648D-AF91-4E74-96A3-173D47D938DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14B9648D-AF91-4E74-96A3-173D47D938DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14B9648D-AF91-4E74-96A3-173D47D938DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3BD3285-A956-4597-B4CA-721318ECCB57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3BD3285-A956-4597-B4CA-721318ECCB57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3BD3285-A956-4597-B4CA-721318ECCB57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3BD3285-A956-4597-B4CA-721318ECCB57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -46,6 +58,8 @@ Global
 		{3DFA946D-109A-4085-BE46-7B336DC89EF6} = {4583BE4A-F19D-4325-99E0-135E6955522A}
 		{CA0661C8-743B-415F-BCC4-19C46764943D} = {3E718ECC-D886-4860-8DA1-76CF4B23BA96}
 		{D206D278-376E-4933-84E5-3C1726071680} = {3E718ECC-D886-4860-8DA1-76CF4B23BA96}
+		{14B9648D-AF91-4E74-96A3-173D47D938DD} = {3E718ECC-D886-4860-8DA1-76CF4B23BA96}
+		{E3BD3285-A956-4597-B4CA-721318ECCB57} = {3E718ECC-D886-4860-8DA1-76CF4B23BA96}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9ED6B7CE-4DC8-4C5F-9826-D36E3D1FC581}
