@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\Projects\\algorithms\\Csharp\\TheSieveOfEratosthenes\\TheSieveOfEratosthenes.csproj",
-      "projectName": "TheSieveOfEratosthenes",
-      "projectPath": "c:\\Projects\\algorithms\\Csharp\\TheSieveOfEratosthenes\\TheSieveOfEratosthenes.csproj",
+      "projectUniqueName": "C:\\Projects\\Algorithms\\Csharp\\Numerical\\Primefactorization\\Primefactorization.csproj",
+      "projectName": "Primefactorization",
+      "projectPath": "C:\\Projects\\Algorithms\\Csharp\\Numerical\\Primefactorization\\Primefactorization.csproj",
       "packagesPath": "C:\\Users\\wendel.chinsamy\\.nuget\\packages\\",
-      "outputPath": "c:\\Projects\\algorithms\\Csharp\\TheSieveOfEratosthenes\\obj\\",
+      "outputPath": "C:\\Projects\\Algorithms\\Csharp\\Numerical\\Primefactorization\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

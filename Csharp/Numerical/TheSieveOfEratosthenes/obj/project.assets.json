@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\Projects\\algorithms\\Csharp\\FermatsLittleTheorem\\FermatsLittleTheorem.csproj",
-      "projectName": "FermatsLittleTheorem",
-      "projectPath": "c:\\Projects\\algorithms\\Csharp\\FermatsLittleTheorem\\FermatsLittleTheorem.csproj",
+      "projectUniqueName": "C:\\Projects\\Algorithms\\Csharp\\Numerical\\TheSieveOfEratosthenes\\TheSieveOfEratosthenes.csproj",
+      "projectName": "TheSieveOfEratosthenes",
+      "projectPath": "C:\\Projects\\Algorithms\\Csharp\\Numerical\\TheSieveOfEratosthenes\\TheSieveOfEratosthenes.csproj",
       "packagesPath": "C:\\Users\\wendel.chinsamy\\.nuget\\packages\\",
-      "outputPath": "c:\\Projects\\algorithms\\Csharp\\FermatsLittleTheorem\\obj\\",
+      "outputPath": "C:\\Projects\\Algorithms\\Csharp\\Numerical\\TheSieveOfEratosthenes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
