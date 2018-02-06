@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Algorithms\\Csharp\\Numerical\\TheSieveOfEratosthenes\\TheSieveOfEratosthenes.csproj",
+      "projectUniqueName": "c:\\projects\\algorithms\\Csharp\\Numerical\\TheSieveOfEratosthenes\\TheSieveOfEratosthenes.csproj",
       "projectName": "TheSieveOfEratosthenes",
-      "projectPath": "C:\\Projects\\Algorithms\\Csharp\\Numerical\\TheSieveOfEratosthenes\\TheSieveOfEratosthenes.csproj",
+      "projectPath": "c:\\projects\\algorithms\\Csharp\\Numerical\\TheSieveOfEratosthenes\\TheSieveOfEratosthenes.csproj",
       "packagesPath": "C:\\Users\\wendel.chinsamy\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Algorithms\\Csharp\\Numerical\\TheSieveOfEratosthenes\\obj\\",
+      "outputPath": "c:\\projects\\algorithms\\Csharp\\Numerical\\TheSieveOfEratosthenes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
