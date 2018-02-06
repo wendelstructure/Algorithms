@@ -1,0 +1,11 @@
+c:\Projects\algorithms\Csharp\Sorting\QuickSort\bin\Debug\netcoreapp2.0\QuickSort.deps.json
+c:\Projects\algorithms\Csharp\Sorting\QuickSort\bin\Debug\netcoreapp2.0\QuickSort.runtimeconfig.json
+c:\Projects\algorithms\Csharp\Sorting\QuickSort\bin\Debug\netcoreapp2.0\QuickSort.runtimeconfig.dev.json
+c:\Projects\algorithms\Csharp\Sorting\QuickSort\bin\Debug\netcoreapp2.0\QuickSort.dll
+c:\Projects\algorithms\Csharp\Sorting\QuickSort\bin\Debug\netcoreapp2.0\QuickSort.pdb
+c:\Projects\algorithms\Csharp\Sorting\QuickSort\obj\Debug\netcoreapp2.0\QuickSort.csproj.CoreCompileInputs.cache
+c:\Projects\algorithms\Csharp\Sorting\QuickSort\obj\Debug\netcoreapp2.0\QuickSort.AssemblyInfoInputs.cache
+c:\Projects\algorithms\Csharp\Sorting\QuickSort\obj\Debug\netcoreapp2.0\QuickSort.AssemblyInfo.cs
+c:\Projects\algorithms\Csharp\Sorting\QuickSort\obj\Debug\netcoreapp2.0\QuickSort.dll
+c:\Projects\algorithms\Csharp\Sorting\QuickSort\obj\Debug\netcoreapp2.0\QuickSort.pdb
+c:\projects\algorithms\Csharp\Sorting\QuickSort\obj\Debug\netcoreapp2.0\QuickSort.csprojResolveAssemblyReference.cache

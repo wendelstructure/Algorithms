@@ -26,7 +26,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Primefactorization", "Numer
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheSieveOfEratosthenes", "Numerical\TheSieveOfEratosthenes\TheSieveOfEratosthenes.csproj", "{8C9B18B7-894B-4E04-9D0E-2889B80E70C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectionSort", "Sorting\SelectionSort\SelectionSort.csproj", "{803C15D4-A415-4643-AF69-03F2ECD4F67D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SelectionSort", "Sorting\SelectionSort\SelectionSort.csproj", "{803C15D4-A415-4643-AF69-03F2ECD4F67D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickSort", "Sorting\QuickSort\QuickSort.csproj", "{04278E48-B54D-4088-889A-8400F880E7FA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -62,6 +64,10 @@ Global
 		{803C15D4-A415-4643-AF69-03F2ECD4F67D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{803C15D4-A415-4643-AF69-03F2ECD4F67D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{803C15D4-A415-4643-AF69-03F2ECD4F67D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04278E48-B54D-4088-889A-8400F880E7FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04278E48-B54D-4088-889A-8400F880E7FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04278E48-B54D-4088-889A-8400F880E7FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04278E48-B54D-4088-889A-8400F880E7FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -74,6 +80,7 @@ Global
 		{685E15EC-EAF1-48BE-ACB1-AFD37F27CD52} = {3E718ECC-D886-4860-8DA1-76CF4B23BA96}
 		{8C9B18B7-894B-4E04-9D0E-2889B80E70C7} = {3E718ECC-D886-4860-8DA1-76CF4B23BA96}
 		{803C15D4-A415-4643-AF69-03F2ECD4F67D} = {4583BE4A-F19D-4325-99E0-135E6955522A}
+		{04278E48-B54D-4088-889A-8400F880E7FA} = {4583BE4A-F19D-4325-99E0-135E6955522A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9ED6B7CE-4DC8-4C5F-9826-D36E3D1FC581}
